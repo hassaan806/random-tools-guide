@@ -40,3 +40,9 @@ Random tools help remove bias and make fair decisions quickly. Whether you're se
 
 ## 🔗 Explore More Tools
 👉 https://toolcenterhub.com/
+
+## 📚 Guides
+
+- Yes/No Generator → ./guides/yes-no-generator.md  
+- Team Generator → ./guides/team-generator.md  
+- Random Tools Overview → ./guides/random-tools-overview.md  
